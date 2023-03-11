@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+}
+
+.cabecalho{
+    margin: 30px;
+}
+
+.movimentacao {
+    text-align: center;
+    background-color: #eaeaea;
+    margin: 0px 10% 10% 10%;
+    border-radius: 70px;
+    padding: 10px;
+
+}
+    
+.movimentacao table{
+    margin: auto;
+    border-radius: 20px;
+    
+}
+
+.movimentacao table tr{
+    text-align: center;
+}
+
+table .valor{
+    text-align: left;
+}
+
+a{
+    text-decoration: none;
+}
+
+.btn_transacao {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 50px;
+    color: black;
+    background-color:lawngreen;
+    border-radius: 20px;;
+    width: 400px;
+    height: 50px;
+    text-align: center;
+}
+
+.btn_transacao a:hover{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 50px;
+    color: black;
+    background-color:#0ee423;
+    border-radius: 20px;;
+    width: 400px;
+    height: 50px;
+    text-transform: uppercase;
+}
+
+form {
+    border: 1px solid #0ee423;
+    width: 500px;
+    height: 200px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px;
+    background-color: aqua;
+}
+
+.tb_transaction {
+    margin: auto;
+    width: 540px;
+}
